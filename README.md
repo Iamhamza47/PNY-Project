@@ -8,8 +8,8 @@ Showcasing Projects: The portfolio section highlights a few of the projects I ha
 Skill Progress Bars: Displays my skills in HTML, CSS, and JavaScript, with progress bars to show the proficiency level.
 Contact Form: A contact section where users can send messages directly to me.
 Technologies Used:
-HTML5
-CSS3
+HTML
+CSS
 JavaScript
 
 Portfolio consists of 6 Pages:
