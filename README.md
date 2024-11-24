@@ -1,5 +1,5 @@
 Muhammad Hamza's Portfolio
-This is the personal portfolio website of Muhammad Hamza, showcasing my skills, projects, and experiences in frontend development and digital marketing. The portfolio is designed to be simple, responsive, and interactive, showcasing the following key areas:
+This is the personal portfolio website of Muhammad Hamza, showcasing my skills, projects, and experiences in frontend development and digital marketing. The portfolio is designed to be simple, responsive, and interactive, showcasing the following key areas.
 
 Key Features:
 Responsive Design: Built using HTML, CSS, the portfolio is fully responsive, ensuring it works seamlessly across all devices.
